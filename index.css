@@ -314,14 +314,18 @@ h1 {
 	top: 200px;
 	text-align: center;
 	color: black;
-	font-size: 3.5em;
+	font-size: 5.5em;
+	font-family: monospace;
+	text-shadow: 0.1em 0.1em 0.02em rgb(97, 95, 95);
 }
 h3 {
 	position: relative;
 	top: 200px;
 	text-align: center;
-	color: red;
+	color: rgb(255, 0, 0);
 	font-size: 3.5em;
+	font-family: monospace;
+	text-shadow: 0.1em 0.1em 0.02em rgb(37, 37, 37);
 }
 body{
     background-image: url("imagem/dicas-decoracao-festas-aniversario.jpg");
