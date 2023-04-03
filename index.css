@@ -325,7 +325,11 @@ h3 {
 	color: rgb(255, 0, 0);
 	font-size: 3.5em;
 	font-family: monospace;
-	text-shadow: 0.1em 0.1em 0.02em rgb(37, 37, 37);
+	text-shadow: 
+				 -2px -2px 0px #000000, 
+				 -2px 2px 0px #000000,                    
+				  2px -2px 0px #000000,                  
+				  2px 0px 0px #000000;
 }
 body{
     background-image: url("imagem/dicas-decoracao-festas-aniversario.jpg");
